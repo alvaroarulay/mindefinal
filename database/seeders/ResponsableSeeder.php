@@ -25,7 +25,6 @@ class ResponsableSeeder extends Seeder
             'codresp' =>$record->get('codresp'),
             'nomresp' =>$record->get('nomresp'),
             'cargo' =>$record->get('cargo'),
-            'observ' =>$record->get('observ'),
             'ci' =>$record->get('ci'),
             'feult' =>$record->get('feult'),
             'usuar' =>$record->get('usuar'),

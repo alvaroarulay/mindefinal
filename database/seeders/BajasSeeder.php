@@ -39,7 +39,6 @@ class BajasSeeder extends Seeder
                 'b_rev' => $record->get('b_rev'),
                 'vidautil' => $record->get('vidautil'),
                 'resolucion' => $record->get('resolucion'),
-                'observ' => $record->get('observ'),
                 'motivo' => $record->get('motivo'),
                 'depacu' => $record->get('depacu'),
                 'actua' => $record->get('actua'), 

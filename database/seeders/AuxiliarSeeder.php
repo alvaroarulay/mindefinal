@@ -23,7 +23,6 @@ class AuxiliarSeeder extends Seeder
                 'codcont' => $record->get('codcont'),
                 'codaux' => $record->get('codaux'),
                 'nomaux' => $record->get('nomaux'),
-                'observ' => $record->get('observ'),
                 'usuar' => $record->get('usuar'),
                 'created_at'=>now(),
                 'updated_at'=>now(),

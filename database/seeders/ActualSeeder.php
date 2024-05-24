@@ -34,7 +34,6 @@ class ActualSeeder extends Seeder
             'dia' => $record->get('dia'), 
             'codofic' => $record->get('codofic'),
             'codresp' => $record->get('codresp'),
-            'observ' => $record->get('observ'),
             'dia_ant' => $record->get('dia_ant'), 
             'mes_ant' => $record->get('mes_ant'), 
             'año_ant' => $record->get('ano_ant'),

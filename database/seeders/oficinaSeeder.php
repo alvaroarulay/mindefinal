@@ -23,7 +23,6 @@ class oficinaSeeder extends Seeder
             'unidad' => $record->get('unidad'),
             'codofic' => $record->get('codofic'),
             'nomofic' => $record->get('nomofic'),
-            'observ' => $record->get('observ'),
             'feult' => $record->get('feult'),
             'usuar' => $record->get('usuar'),
             'api_estado' => $record->get('api_estado'),

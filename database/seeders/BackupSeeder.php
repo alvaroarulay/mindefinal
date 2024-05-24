@@ -22,7 +22,6 @@ class BackupSeeder extends Seeder
                 'dia' => $record->get('dia'),
                 'hora' => $record->get('hora'), 
                 'archivo' => $record->get('archivo'),
-                'observ' => $record->get('observ'),
                 'usuar' => $record->get('usuar'),
                 'feult' => $record->get('feult'),
                 'created_at'=>now(),

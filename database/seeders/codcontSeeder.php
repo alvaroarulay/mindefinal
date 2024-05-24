@@ -25,7 +25,6 @@ class codcontSeeder extends Seeder
             'codcont' => $record->get('codcont'),
             'nombre' => $record->get('nombre'),
             'vidautil' => $record->get('vidautil'),
-            'observ' => $record->get('observ'), 
             'depreciar' => $record->get('depreciar'), 
             'actualizar' => $record->get('actualizar'), 
             'feult' => $record->get('feult'),
