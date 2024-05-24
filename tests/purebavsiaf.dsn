@@ -1,0 +1,15 @@
+[ODBC]
+CollatingSequence=ASCII
+DBQ=C:\VSIAF\DBFS
+DefaultDir=C:\VSIAF\DBFS
+Deleted=1
+Driver={Microsoft Access dBASE Driver (*.dbf, *.ndx, *.mdx)}
+DriverId=277
+FIL=dBASE IV
+MaxBufferSize=2048
+MaxScanRows=8
+PageTimeout=600
+SafeTransactions=0
+Statistics=0
+Threads=3
+UserCommitSync=Yes

@@ -1,0 +1,9 @@
+[Columns settings]
+dbgr.ENTIDAD=0,28,0,1,0,7,0
+dbgr.UNIDAD=1,46,0,1,0,7,0
+dbgr.CODOFIC=2,64,0,1,0,7,0
+dbgr.NOMOFIC=3,394,0,1,0,7,0
+dbgr.OBSERV=4,64,0,1,0,7,0
+dbgr.FEULT=5,64,0,1,0,7,0
+dbgr.USUAR=6,52,0,1,0,7,0
+dbgr.API_ESTADO=7,64,0,1,0,7,0

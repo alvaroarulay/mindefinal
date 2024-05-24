@@ -1,0 +1,81 @@
+
+ERROR en  17:28:08   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL1.CTLICON_ASSIGN
+   linea:          13   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1426   Código de error OLE 0x80030009: Error de puntero no válido.
+variable:  
+
+
+=================================================================
+
+ERROR en  17:28:09   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL1.CTLICON_ASSIGN
+   linea:          14   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1925   _OICON es un miembro desconocido.
+variable:  
+
+
+=================================================================
+
+ERROR en  17:28:11   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL2.CTLICON_ASSIGN
+   linea:          13   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1426   Código de error OLE 0x80030009: Error de puntero no válido.
+variable:  
+
+
+=================================================================
+
+ERROR en  17:28:12   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL2.CTLICON_ASSIGN
+   linea:          14   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1925   _OICON es un miembro desconocido.
+variable:  
+
+
+=================================================================
+
+ERROR en  17:28:13   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL3.CTLICON_ASSIGN
+   linea:          13   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1426   Código de error OLE 0x80030009: Error de puntero no válido.
+variable:  
+
+
+=================================================================
+
+ERROR en  17:28:14   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL3.CTLICON_ASSIGN
+   linea:          14   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1925   _OICON es un miembro desconocido.
+variable:  
+
+
+=================================================================
+
+ERROR en  17:28:15   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL4.CTLICON_ASSIGN
+   linea:          13   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1426   Código de error OLE 0x80030009: Error de puntero no válido.
+variable:  
+
+
+=================================================================
+
+ERROR en  17:28:16   17/04/2024
+programa:  SCREEN.OSTATUSBAR.PANEL4.CTLICON_ASSIGN
+   linea:          14   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1925   _OICON es un miembro desconocido.
+variable:  
+
+
+=================================================================
+

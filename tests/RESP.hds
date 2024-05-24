@@ -1,0 +1,13 @@
+[Columns settings]
+dbgr.ENTIDAD=0,28,0,1,0,7,0
+dbgr.UNIDAD=1,63,0,1,0,7,0
+dbgr.CODOFIC=2,64,0,1,0,7,0
+dbgr.CODRESP=3,64,0,1,0,7,0
+dbgr.NOMRESP=4,269,0,1,0,7,0
+dbgr.CARGO=5,214,0,1,0,7,0
+dbgr.OBSERV=6,64,0,1,0,7,0
+dbgr.CI=7,124,0,1,0,7,0
+dbgr.FEULT=8,64,0,1,0,7,0
+dbgr.USUAR=9,52,0,1,0,7,0
+dbgr.COD_EXP=10,64,0,1,0,7,0
+dbgr.API_ESTADO=11,64,0,1,0,7,0

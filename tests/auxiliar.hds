@@ -1,0 +1,9 @@
+[Columns settings]
+dbgr.ENTIDAD=0,28,0,1,0,7,0
+dbgr.CODCONT=1,64,0,1,0,7,0
+dbgr.UNIDAD=2,46,0,1,0,7,0
+dbgr.CODAUX=3,64,0,1,0,7,0
+dbgr.NOMAUX=4,304,0,1,0,7,0
+dbgr.OBSERV=5,64,0,1,0,7,0
+dbgr.FEULT=6,64,0,1,0,7,0
+dbgr.USUAR=7,52,0,1,0,7,0
